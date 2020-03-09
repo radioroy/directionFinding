@@ -1,2 +1,2 @@
-# directionFinding
-# hi
+# directionFinding project
+# Roy Gross
