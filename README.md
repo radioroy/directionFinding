@@ -15,9 +15,10 @@
 
 # Raspberry Pi code is used to process the output from the SDR and calculates the signal bearing is written in Python. I developed this algorithm using a spreadsheet, and I had help porting it to Python.
 # Raspberry Pi:
-# Pi
-# Pi
-# Pi
+# live_angle_graphic.py
+# rtl_live_angle.py
+# rtl_live_angle_manual_algorithm.py
+# rtl_plot_test.py
 
 # CoLab:
 # IQ_to_angle_python.ipynb
