@@ -1,3 +1,5 @@
+A selection of programs for the Arduino for a radio direction-finding project using the ADG904 high-speed RF switch IC.
+
 # directionFinding project
 # Roy Gross
 # Software for “Designing and Testing an Ad Hoc Phased Array Antenna Network for Search and Rescue (Physical Science and Engineering, Electrical Engineering)” - 092-E70-F1
